@@ -1,2 +1,4 @@
-# testdyie
-Hevskdgeg
+# Red Anarchy - проект
+```python
+print("test")
+```
