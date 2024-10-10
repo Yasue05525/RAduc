@@ -14,4 +14,5 @@ nam.start()
 ```
 Это код будет работать
 
-(test)
+[click on this link](#my-multi-word-header)
+#test
