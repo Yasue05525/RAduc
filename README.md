@@ -14,6 +14,4 @@ nam.start()
 ```
 Это код будет работать
 
-[click on this link](#test)
-
-### test
+[Contribution guidelines for this project](doc/test.md)
