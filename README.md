@@ -1,4 +1,7 @@
 # Red Anarchy - проект
+Суть скрипта будут для использовании классы и методы
 ```python
-print("test")
+class Main():
+    def start(self, name):
+        self.name = name
 ```
