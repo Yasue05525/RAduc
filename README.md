@@ -13,3 +13,5 @@ nam = Main("Nikita")
 nam.start()
 ```
 Это код будет работать
+
+[test]
